@@ -3,6 +3,7 @@
 💻 Front-end Developer in progress  
 🚀 Focused on React and JavaScript  
 🛠️ Background in IT Support  
+🗄️ Knowledge of MySQL databases  
 
 ## 📌 Projects
 - Task Manager App (React)
